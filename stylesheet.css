@@ -13,11 +13,21 @@ img{
 }
 
 p {
-   color:green;
-   margin:5px 5px 5px 5px;
+   text-align:center;
+   font-family: Garamond;
+   font-size: 18px;
+
   }
 h1 {
    padding: 30px;
    margin: 30px 30px 30px 30px;
    color:green;
  }
+ h3 {
+    
+ }
+span {
+   font-weight:bold;
+   font-size: 18px;
+   color: #fffff;
+}
