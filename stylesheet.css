@@ -52,10 +52,13 @@ h1 {
     margin-auto;
     text-align:center;
     padding:10px;
+    /*
     float:right;
     
+    
+    
  }
- /*
+ 
  #header{
     height:50px;
     background-color:#f38630;
