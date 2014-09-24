@@ -19,9 +19,11 @@ p {
 
   }
 h1 {
-   padding: 30px;
-   margin: 30px 30px 30px 30px;
-   color:green;
+   text-align:center;
+   font-family: Verdana;
+   font-size:20px;
+   
+   
  }
  h3 {
     
