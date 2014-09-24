@@ -30,7 +30,7 @@ a: visited{
 }
 
 p {
-   float:left;
+   /*float:left;*/
    font-family: Garamond;
    font-size: 18px;
 
