@@ -14,6 +14,20 @@ img{
 body {
    background-color:#c6e2ff;
 }
+a:link{
+   text-decoration:none;
+   color: #008b45;
+}
+a: hover{
+   color:#00ff00;
+   font-weight:bold;
+   text-decoration:none;
+   
+}
+a: visited{
+   color: #ee9a00;
+   
+}
 
 p {
    
