@@ -76,6 +76,7 @@ h1 {
    font-size:15px;
  }
  */
+ /*
  div{
     display:inline-block;
     
@@ -93,12 +94,27 @@ h1 {
     
     
  }
- /*
- #header{
-    height:50px;
-    background-color:#f38630;
-    margin-bottom:10px;
+ */
+ body{
+     padding:0 0 0 0;
+     
  }
+ 
+ .header{
+     padding:10px 10px 10px 10px;
+    
+ }
+ .main{
+     padding:20px 20px 20px 20px;
+     border:2px solid #dddddd;
+     margin:30px 0 0 0;
+     background-color:#b56663;
+     
+ }
+ header a{
+     color: #ffffff;
+ }
+ /*
  .left{
     height:300px;
     width:150px;
