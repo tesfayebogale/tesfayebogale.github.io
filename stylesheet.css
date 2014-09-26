@@ -78,14 +78,14 @@ h1 {
  */
  div{
     display:inline-block;
-    border-radius:5px;
-    border:3px solid #6495ed;
+    border-radius:2px;
+    border:1px solid #6495ed;
     background-color:#bcd2ee;
-    height: 20px;
+    height: 10px;
     width:100px;
     margin-auto;
     text-align:center;
-    padding:20px;
+    padding:1px;
     
     float:right;
     
