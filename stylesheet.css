@@ -9,11 +9,11 @@
        
   body{
      padding: 60px 60px 60px 60px;
-     border:10px solid yellow;
+     border:10px solid green;
      margin:50 80 50 80;
      text-decoration:darkred;
-     padding-color:red;
-     margin-color:green
+     
+     
      
 }
  h1{
@@ -75,6 +75,7 @@ h1 {
    font-family: Arial;
    font-size:15px;
  }
+ */
  div{
     display:inline-block;
     border-radius:5px;
@@ -91,7 +92,7 @@ h1 {
     
     
  }
- 
+ /*
  #header{
     height:50px;
     background-color:#f38630;
