@@ -104,11 +104,12 @@ h1 {
  }
  
  .header{
-     backgroun-color:#c6e2ff;
+     padding-color:#c6e2ff;
      padding:10px 10px 10px 10px;
      border:6px solid #ff0000;
      text-align:center;
      margin: 15px 6px 15px 6px;
+     maargin-color:#b56663;
      
     
  }
