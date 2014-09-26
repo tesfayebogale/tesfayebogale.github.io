@@ -9,9 +9,11 @@
        
   body{
      padding: 60px 60px 60px 60px;
-     border:10px solid gray;
+     border:10px solid yellow;
      margin:50 80 50 80;
      text-decoration:darkred;
+     padding-color:red;
+     margin-color:green
      
 }
  h1{
