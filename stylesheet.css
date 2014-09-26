@@ -125,8 +125,13 @@ h1 {
      text-align:right;
  }
  #top{
-     color:#ffffff;
+     color:#00ff00;
  }
+ .header p{
+     color:#ffff00;
+ }
+ 
+ 
  /*
  header a{
      color: #ffffff;
