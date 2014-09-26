@@ -124,6 +124,9 @@ h1 {
  .nav{
      text-align:right;
  }
+ #top{
+     color:#ffffff;
+ }
  /*
  header a{
      color: #ffffff;
