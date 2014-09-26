@@ -83,9 +83,9 @@ h1 {
     background-color:#bcd2ee;
     height: 5px;
     width:50px;
-    margin-auto;
+    margin:5px 10px 2px 10px;
     text-align:center;
-    padding-top:5px 3px 0 0 ;
+    padding:1px 3px 1px 1px ;
     
     
     float:right;
