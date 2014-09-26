@@ -48,10 +48,10 @@ img{
    margin:auto;
    
 }
-*//*
+*/
 body {
    background-color:#c6e2ff;
-}*/
+}
 a:link{
    text-decoration:none;
    color: #008b45;
@@ -104,7 +104,7 @@ h1 {
  }
  
  .header{
-     color:#ffffff;
+     color:#c6e2ff;
      padding:10px 10px 10px 10px;
      border:1px solid #dddddd;
      text-align:center;
