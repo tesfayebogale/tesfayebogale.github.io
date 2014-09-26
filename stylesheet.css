@@ -6,7 +6,7 @@
         border:0;
         margin:0;
        }
-       
+  /*     
   body{
      padding: 60px 60px 60px 60px;
      border:10px solid green;
@@ -16,6 +16,7 @@
      
      
 }
+*/
  h1{
     margin:15px 0 15px 0;
     background-color:#ffffff;
@@ -47,10 +48,10 @@ img{
    margin:auto;
    
 }
-*/
+*//*
 body {
    background-color:#c6e2ff;
-}
+}*/
 a:link{
    text-decoration:none;
    color: #008b45;
