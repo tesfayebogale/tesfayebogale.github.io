@@ -108,10 +108,10 @@ h1 {
  .header{
      padding-color:#c6e2ff;
      padding:10px 10px 10px 10px;
-     border:1px solid #c6e2ff;
+     border:0 solid #c6e2ff;
      text-align:center;
-     margin: 5px 5px 5px 5px;
-     margin-color:#b56663;
+     margin: 2px 2px 2px 2px;
+     margin-color:#c6e2ff;
      background-color:#c6e2ff;
      
     
